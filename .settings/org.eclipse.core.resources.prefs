@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/laptrinhjavaweb/controller/admin/api/NewAPI.java=UTF-8
+encoding//src/main/java/com/laptrinhjavaweb/controller/web/HomeController.java=UTF-8
+encoding//src/main/java/com/laptrinhjavaweb/dao/ICategoryDAO.java=UTF-8
+encoding//src/main/java/com/laptrinhjavaweb/dao/impl/AbstractDAO.java=UTF-8
+encoding//src/main/java/com/laptrinhjavaweb/dao/impl/CategoryDAO.java=UTF-8
+encoding//src/main/java/com/laptrinhjavaweb/dao/impl/NewDAO.java=UTF-8
+encoding//src/main/java/com/laptrinhjavaweb/service/INewService.java=UTF-8
+encoding//src/main/java/com/laptrinhjavaweb/service/IUserService.java=UTF-8
+encoding//src/main/webapp/common/web/header.jsp=UTF-8
